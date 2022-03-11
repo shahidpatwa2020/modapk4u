@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://modapkon.com",
+  "target":"https://zeddl.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://modapkon.com",
+      "target":"https://zeddl.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
